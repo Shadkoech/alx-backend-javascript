@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# npm
+npm-debug.log
+package-lock.json
+
+# ESLint
+.eslintcache
+
+# Babel
+/dist
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
