@@ -25,3 +25,69 @@ Then run `npm install`
 
 
 ## Tasks
+
+### Task 0:
+
+Filename
+
+	- 0-classroom.js, 0-main.js
+Implement a class named ClassRoom:
+- Prototype: export default class ClassRoom
+- It should accept one attribute named maxStudentsSize (Number) and assigned to _maxStudentsSize
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
+
+
+### Task
+
