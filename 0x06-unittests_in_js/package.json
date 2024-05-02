@@ -1,0 +1,14 @@
+{
+  "name": "0x06-unittests_in_js",
+  "version": "1.0.0",
+  "description": "This project focuses on learning and implementing unit tests in JavaScript using Mocha, Chai, and Sinon libraries. The project comprises several tasks, each emphasizing different aspects of unit testing. This is a very important concept in development framework since it helps detect bugs early and ensure the development of high quality JS code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
