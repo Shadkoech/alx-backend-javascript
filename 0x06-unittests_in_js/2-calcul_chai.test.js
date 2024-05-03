@@ -1,8 +1,8 @@
 // test.js
 
-const assert = require('assert');
+// const assert = require('assert');
 const calculateNumber = require('./2-calcul_chai');
-const { expect } = require('chai').default;
+const { expect } = require('chai')
 
 
 describe("Test calculateNumber function with type == SUM", () => {

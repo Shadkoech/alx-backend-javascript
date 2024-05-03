@@ -13,7 +13,7 @@ function calculateNumber(type, a, b,) {
     }
     return num1 / num2;
   } else {
-    return 'Invalid operation type';
+    return 'Invalid ope';ration type
   }
   
 }
